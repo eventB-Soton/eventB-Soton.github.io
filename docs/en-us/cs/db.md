@@ -1,0 +1,9 @@
+# DB Netz
+
+DB Netz are using UML-B as a route to formal verification of digital Railway Command Control and Signalling (CCS) system specifications. In the EULYNX initiative, SysML specification models of CCS components have been developed such as an electronic interlocking and the corresponding field elements (point, signal, level crossing, etc.), describing their interfaces and how they communicate to make a safe railway system.
+
+These models will be used for specifying component requirements to suppliers to provide interoperability. The functional requirements are specified by means of executable SysML state machines that are the basis for the creation of virtual prototypes.
+
+That way the infrastructure managers of the railways participating in EULYNX can validate the specification by means of simulation without a profound knowledge of the underlying specification language. The EULYNX MBSE approach has already led to significant improvement in the quality of created specifications but still, it does not allow the formal verification of system properties.
+
+Translating the SysML models into UML-B and hence Event-B brings mathematical precision and allows system level safety properties to be proven, providing formal verification that the specification is safe.

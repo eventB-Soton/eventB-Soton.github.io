@@ -1,0 +1,119 @@
+{
+  "en-us": [
+    {
+      "filename": "170627.md",
+      "link": "/en-us/blog/170627.html",
+      "meta": {
+        "key1": "Goodstein theorems",
+        "key2": "Mathematical Engineering"
+      }
+    },
+    {
+      "filename": "1706271.md",
+      "link": "/en-us/blog/1706271.html",
+      "meta": {
+        "key1": "Event-B"
+      }
+    },
+    {
+      "filename": "200407.md",
+      "link": "/en-us/blog/200407.html",
+      "meta": {
+        "key1": "CamilleX",
+        "key2": "XText"
+      }
+    },
+    {
+      "filename": "CamilleX.md",
+      "link": "/en-us/blog/CamilleX.html",
+      "meta": {
+        "key1": "CamilleX",
+        "key2": "Machine Inclusion"
+      }
+    },
+    {
+      "filename": "XEventB.md",
+      "link": "/en-us/blog/XEventB.html",
+      "meta": {
+        "key1": "XEvent-B",
+        "key2": "Machine Inclusion",
+        "key3": "Rodin Plug-ins"
+      }
+    },
+    {
+      "filename": "XEventB1.md",
+      "link": "/en-us/blog/XEventB1.html",
+      "meta": {
+        "key1": "XEvent-B",
+        "key2": "Machine Inclusion",
+        "key3": "Rodin Plug-ins"
+      }
+    },
+    {
+      "filename": "iUMLB.md",
+      "link": "/en-us/blog/iUMLB.html",
+      "meta": {
+        "key1": "iUML-B",
+        "key2": "Rodin Plug-ins"
+      }
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "blog1.md",
+      "link": "/zh-cn/blog/blog1.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog2.md",
+      "link": "/zh-cn/blog/blog2.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog3.md",
+      "link": "/zh-cn/blog/blog3.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog4.md",
+      "link": "/zh-cn/blog/blog4.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog5.md",
+      "link": "/zh-cn/blog/blog5.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog6.md",
+      "link": "/zh-cn/blog/blog6.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog7.md",
+      "link": "/zh-cn/blog/blog7.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    }
+  ]
+}

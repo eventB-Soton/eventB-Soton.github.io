@@ -1,0 +1,10 @@
+{
+  "filename": "XEventB1.md",
+  "__html": "<h1>XEvent-B 0.0.7 Release</h1>\n<p>We have made a new (pre-)release of XEvent-B version 0.0.7. It supports cross-project inclusion of machines. It is available on the main Rodin plugins update site.</p>\n<p>Information about XEvent-B can be found in the following wiki page.\n<a href=\"http://wiki.event-b.org/index.php/XEvent-B\">http://wiki.event-b.org/index.php/XEvent-B</a></p>\n",
+  "link": "/en-us/blog/XEventB1.html",
+  "meta": {
+    "key1": "XEvent-B",
+    "key2": "Machine Inclusion",
+    "key3": "Rodin Plug-ins"
+  }
+}
