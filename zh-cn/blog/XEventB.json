@@ -1,0 +1,10 @@
+{
+  "filename": "XEventB.md",
+  "__html": "<h1>XEvent-B 0.0.6 发布</h1>\n<p>我们为Rodin 3.3.0制作了一个XEvent-B的（预）版本。它可以在Rodin插件更新的主站点上获得。\nXEvent-B提供了一个文本编辑器(XText-base)，并支持通过 &quot;机器包含 &quot;机制来组成机器。</p>\n<p>关于XEvent-B的信息可以在下面的wiki页面中找到。\n<a href=\"http://wiki.event-b.org/index.php/XEvent-B\">http://wiki.event-b.org/index.php/XEvent-B</a></p>\n",
+  "link": "/zh-cn/blog/XEventB.html",
+  "meta": {
+    "key1": "XEvent-B",
+    "key2": "Machine Inclusion",
+    "key3": "Rodin Plug-ins"
+  }
+}

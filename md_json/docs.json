@@ -33,18 +33,33 @@
   ],
   "zh-cn": [
     {
-      "filename": "demo1.md",
-      "link": "/zh-cn/docs/demo1.html",
+      "filename": "avionics.md",
+      "link": "/zh-cn/docs/cs/avionics.html",
       "meta": {}
     },
     {
-      "filename": "demo2.md",
-      "link": "/zh-cn/docs/demo2.html",
+      "filename": "coda.md",
+      "link": "/zh-cn/docs/cs/coda.html",
       "meta": {}
     },
     {
-      "filename": "demo3.md",
-      "link": "/zh-cn/docs/dir/demo3.html",
+      "filename": "db.md",
+      "link": "/zh-cn/docs/cs/db.html",
+      "meta": {}
+    },
+    {
+      "filename": "ertms3.md",
+      "link": "/zh-cn/docs/cs/ertms3.html",
+      "meta": {}
+    },
+    {
+      "filename": "eventb.md",
+      "link": "/zh-cn/docs/eventb.html",
+      "meta": {}
+    },
+    {
+      "filename": "umlb.md",
+      "link": "/zh-cn/docs/umlb.html",
       "meta": {}
     }
   ]

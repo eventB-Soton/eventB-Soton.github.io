@@ -41,11 +41,11 @@ export default {
         },
         {
           text: 'Quick start',
-          link: '/en-us/docs/demo2.html',
+          link: '/en-us/docs/eventb.html',
         },
         {
           text: 'Developer guide',
-          link: '/en-us/docs/dir/demo3.html',
+          link: '/en-us/docs/eventb.html',
         },
       ],
     },
@@ -74,7 +74,7 @@ export default {
       {
         key: 'docs',
         text: '文档',
-        link: '/zh-cn/docs/demo1.html',
+        link: '/zh-cn/docs/eventb.html',
       },
       {
         key: 'blog',
@@ -96,15 +96,15 @@ export default {
       list: [
         {
           text: '概览',
-          link: '/zh-cn/docs/demo1.html',
+          link: '/zh-cn/docs/eventb.html',
         },
         {
           text: '快速开始',
-          link: '/zh-cn/docs/demo2.html',
+          link: '/zh-cn/docs/eventb.html',
         },
         {
           text: '开发者指南',
-          link: '/zh-cn/docs/dir/demo3.html',
+          link: '/zh-cn/docs/eventb.html',
         },
       ],
     },

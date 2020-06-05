@@ -60,59 +60,60 @@
   ],
   "zh-cn": [
     {
-      "filename": "blog1.md",
-      "link": "/zh-cn/blog/blog1.html",
+      "filename": "170627.md",
+      "link": "/zh-cn/blog/170627.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "Goodstein theorems",
+        "key2": "Mathematical Engineering"
       }
     },
     {
-      "filename": "blog2.md",
-      "link": "/zh-cn/blog/blog2.html",
+      "filename": "1706271.md",
+      "link": "/zh-cn/blog/1706271.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "Event-B"
       }
     },
     {
-      "filename": "blog3.md",
-      "link": "/zh-cn/blog/blog3.html",
+      "filename": "200407.md",
+      "link": "/zh-cn/blog/200407.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "CamilleX",
+        "key2": "XText"
       }
     },
     {
-      "filename": "blog4.md",
-      "link": "/zh-cn/blog/blog4.html",
+      "filename": "CamilleX.md",
+      "link": "/zh-cn/blog/CamilleX.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "CamilleX",
+        "key2": "Machine Inclusion"
       }
     },
     {
-      "filename": "blog5.md",
-      "link": "/zh-cn/blog/blog5.html",
+      "filename": "XEventB.md",
+      "link": "/zh-cn/blog/XEventB.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "XEvent-B",
+        "key2": "Machine Inclusion",
+        "key3": "Rodin Plug-ins"
       }
     },
     {
-      "filename": "blog6.md",
-      "link": "/zh-cn/blog/blog6.html",
+      "filename": "XEventB1.md",
+      "link": "/zh-cn/blog/XEventB1.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "XEvent-B",
+        "key2": "Machine Inclusion",
+        "key3": "Rodin Plug-ins"
       }
     },
     {
-      "filename": "blog7.md",
-      "link": "/zh-cn/blog/blog7.html",
+      "filename": "iUMLB.md",
+      "link": "/zh-cn/blog/iUMLB.html",
       "meta": {
-        "key1": "hello",
-        "key2": "world"
+        "key1": "iUML-B",
+        "key2": "Rodin Plug-ins"
       }
     }
   ]

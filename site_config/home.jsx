@@ -8,7 +8,7 @@ export default {
       buttons: [
         {
           text: '立即开始',
-          link: '/zh-cn/docs/demo1.html',
+          link: '/zh-cn/docs/eventb.html',
           type: 'primary',
         },
         {
@@ -19,52 +19,42 @@ export default {
       ],
     },
     introduction: {
-      title: '开源产品的介绍',
-      desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
-      img: '/img/architecture.png',
+      title: '软件建模',
+      desc: '软件缺陷会导致软件的测试和修复耗费大量的时间，如果不被发现，会对软件用户造成不利影响。相当一部分软件缺陷产生于需求和设计阶段，但只有在编码阶段之后，软件被测试或部署时才被发现。利用形式化建模明确规定和分析需求和设计，有助于在编码前消除许多缺陷。',
+      img: '/img/bmethod.png',
     },
     features: {
       title: '特性一览',
       list: [
         {
           img: '/img/feature_transpart.png',
-          title: '特性1',
-          content: '特性1的简单概括',
+          title: '建模符号',
+          content: '集合理论作为一种建模符号',
         },
         {
           img: '/img/feature_loadbalances.png',
-          title: '特性2',
-          content: '特性2的简单概括',
+          title: '精细化',
+          content: '利用精细化来表示不同抽象层次的系统',
         },
         {
           img: '/img/feature_service.png',
-          title: '特性3',
-          content: '特性3的简单概括',
+          title: '证明',
+          content: '用数学证明来验证不同细化级别之间的一致性',
         },
         {
           img: '/img/feature_hogh.png',
-          title: '特性4',
-          content: '特性4的简单概括',
-        },
-        {
-          img: '/img/feature_runtime.png',
-          title: '特性5',
-          content: '特性5的简单概括',
-        },
-        {
-          img: '/img/feature_maintenance.png',
-          title: '特性6',
-          content: '特性6的简单概括',
+          title: '工具支持',
+          content: 'Rodin平台是一个基于Eclipse的Event-B集成开发环境，它为精细化和数学证明提供了有效的支持。',
         },
       ],
     },
     start: {
       title: '快速开始',
-      desc: '简单描述',
-      img: '/img/quick_start.png',
+      desc: '使用Rodin',
+      img: '/img/rodin.png',
       button: {
-        text: '阅读更多',
-        link: '/zh-cn/docs/demo1.html',
+        text: 'Rodin使用手册',
+        link: 'https://www3.hhu.de/stups/handbook/rodin/current/html/',
       },
     },
     // users: {

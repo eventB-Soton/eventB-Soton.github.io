@@ -1845,7 +1845,7 @@ h1, h2, h3, h4, h5, h6 {
         opacity: 0.56;
         font-family: Avenir-Medium;
         font-size: 18px;
-        color: #999; }
+        color: #3F51B5; }
     .home-page .introduction-section .introduction-body img {
       width: 562px;
       margin: 0 82px;
@@ -1916,7 +1916,7 @@ h1, h2, h3, h4, h5, h6 {
           font-family: Avenir-Medium;
           font-size: 14px;
           line-height: 20px;
-          color: #999; }
+          color: #3F51B5; }
     @media screen and (max-width: 768px) {
       .home-page .feature-section ul li {
         width: 100%; } }

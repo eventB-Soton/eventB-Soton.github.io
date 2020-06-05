@@ -1,0 +1,9 @@
+{
+  "filename": "170627.md",
+  "__html": "<h1>数学工程的练习--证明弱古德斯坦定理和强古德斯坦定理。</h1>\n<p><strong>Event</strong>: ESS研讨会\n<strong>Speaker</strong>: Jean-Raymond Abrial\n<strong>Location</strong>: 58 / 1065 (Murray Building)\n<strong>Date</strong>: Tuesday, 27/06/2017\n<strong>Time</strong>: 14:00–15:00\n<strong>Material</strong>:</p>\n<ul>\n<li><a href=\"/media_bin/170627-Abrial-Goodstein/A_sld_goodstein_new_V5.pdf\">Slides</a></li>\n<li><a href=\"/media_bin/170627-Abrial-Goodstein/Goodstein0.zip\">Goodstein0 Rodin archive</a></li>\n<li><a href=\"/media_bin/170627-Abrial-Goodstein/Goodstein1.zip\">Goodstein1 Rodin archive</a></li>\n<li><a href=\"/media_bin/170627-Abrial-Goodstein/Goodstein2.zip\">Goodstein2 Rodin archive</a></li>\n<li><a href=\"/media_bin/170627-Abrial-Goodstein/Goodstein3.zip\">Goodstein3 Rodin archive</a></li>\n</ul>\n<h2>摘要</h2>\n<p>多年来，我一直在研究一些技术，以便在开发大型计算机系统时使用 &quot;正确的构造 &quot;方法。我还参与了对全世界许多学生的教学工作。这种方法最重要的一个方面是通过一些工具掌握形式化的证明。 为此，我发现给学生认真温习一下证明的知识是非常重要的。在介绍到一些背景后，我发现最好的方法是继续向学生介绍一些在纯数学中做的重要证明。但我对数学课本中的内容有些失望。明明有很多证明，但我发现数学家并没有花足够的时间来解释他们发现和提出这种证明的方法。所以，我决定自己动手。这就是我所说的 &quot;数学工程&quot;：试图深入解释一个证明中使用的方法是什么。我还发现，这什么与系统的形式化开发中应该做的事情相差不大。在我研究的证明中，有一个是鲁本-古德斯坦在1944年提出的一个非常反直觉的定理。在这次研讨会上，我将介绍和解释这个证明（用罗丹工具集证明）。</p>\n<h2>简历</h2>\n<p>Jean-Raymond Abrial是形式化方法Z、B和Event-B的发明者。他是 &quot;B-书&quot;（CUP 1996）的作者，该书介绍了B方法。他还出版了另一本书 &quot;Event-B建模：系统和软件工程&quot;（CUP 2010）。2004年至2007年，他在苏黎世联邦理工学院担任客座教授，领导团队开发Event-B的Rodin平台工具（由欧洲项目 &quot;Rodin &quot;资助）。此后，他也是苏黎世联邦理工学院的研究员，一直到2009年5月都在为一个新的欧洲项目 &quot;Deploy &quot;工作。最近，他是另一个欧洲项目的顾问。&quot;Advance &quot;项目的顾问。他还经常受邀在中国的大学（北京的北京大学，上海的华东师范大学）讲授一些形式化的方法论课程。在来苏黎世之前，他曾担任顾问20多年，不仅与工业公司保持密切联系，还与世界各地的大学保持密切联系。</p>\n",
+  "link": "/zh-cn/blog/170627.html",
+  "meta": {
+    "key1": "Goodstein theorems",
+    "key2": "Mathematical Engineering"
+  }
+}
