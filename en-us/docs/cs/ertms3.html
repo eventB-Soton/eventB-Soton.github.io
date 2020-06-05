@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="keywords" content="ertms3" />
+	<meta name="description" content="ertms3" />
+	<!-- 网页标签标题 -->
+	<title>ertms3</title>
+	<link rel="shortcut icon" href="/img/docsite.ico"/>
+	<link rel="stylesheet" href="/build/documentation.css" />
+</head>
+<body>
+	<div id="root"><div class="documentation-page" data-reactroot=""><header class="header-container header-container-normal"><div class="header-body"><a href="/en-us/index.html"><img class="logo"/></a><div class="search search-normal"><span class="icon-search"></span></div><span class="language-switch language-switch-normal">中</span><div class="header-menu"><img class="header-menu-toggle" src="/img/system/menu_gray.png"/><ul><li class="menu-item menu-item-normal"><a href="/en-us/index.html" target="_self">HOME</a></li><li class="menu-item menu-item-normal menu-item-normal-active"><a href="/en-us/docs/eventb.html" target="_self">DOCS</a></li><li class="menu-item menu-item-normal"><a href="/en-us/blog/index.html" target="_self">BLOG</a></li><li class="menu-item menu-item-normal"><a href="/en-us/community/index.html" target="_self">COMMUNITY</a></li></ul></div></div></header><div class="bar"><div class="bar-body"><img src="/img/system/docs.png" class="front-img"/><span>Documentation</span><img src="/img/system/docs.png" class="back-img"/></div></div><section class="content-section"><div class="sidemenu"><div class="sidemenu-toggle"><img src="https://img.alicdn.com/tfs/TB1E6apXHGYBuNjy0FoXXciBFXa-200-200.png"/></div><ul><li class="menu-item menu-item-level-1"><span>header title</span><ul><li style="height:36px;overflow:hidden" class="menu-item menu-item-level-2"><a href="/en-us/docs/eventb.html" target="_self">Event-B</a></li><li style="height:36px;overflow:hidden" class="menu-item menu-item-level-2"><a href="/en-us/docs/umlb.html" target="_self">UML-B</a></li><li style="height:180px;overflow:hidden" class="menu-item menu-item-level-2"><span>Case Study<img style="transform:rotate(0deg)" class="menu-toggle" src="/img/system/arrow_down.png"/></span><ul><li class="menu-item menu-item-level-3"><a href="/en-us/docs/cs/db.html" target="_self">DB Netz</a></li><li class="menu-item menu-item-level-3"><a href="/en-us/docs/cs/ertms3.html" target="_self">Modelling the Hybrid ERTMS Level 3 in UML-B</a></li><li class="menu-item menu-item-level-3"><a href="/en-us/docs/cs/avionics.html" target="_self">Developing UML-B for Avionics</a></li><li class="menu-item menu-item-level-3"><a href="/en-us/docs/cs/coda.html" target="_self">CODA Component Diagram models</a></li></ul></li></ul></li></ul></div><div class="doc-content markdown-body"><h1>Modelling the Hybrid ERTMS Level 3 in UML-B</h1>
+<p>We used UML-B to model and verify the safety of a new European railway specification, Hybrid ERTMS Level 3. The specification is for a new kind of control system that will allow new trains that can communicate their position, to operate alongside older trains that rely on track detection equipment.</p>
+<p>The control system splits the existing track sections into virtual sections so that the newer trains can be run at closer intervals, but reverts to using track detection in the presence of older rolling stock. We used UML-B class diagrams to model the relationships between trains and track sections and state-machines to model the state of trains. Our model was constructed using nine refinement levels, culminating in a UML-B state-machine representing the control system of the specification.</p>
+<p>The European railway specification was improved as a result of our verification results because we were unable to prove some safety properties in the initial version of the specification.</p>
+<p>The ERTMS specification contains example scenarios to explain the meaning of the specification. In order to check that our UML-B model reflects the behaviour described in the specification, we have developed a behaviour driven method and tools for animating scenarios in our model.</p>
+<p>Using the Scenario Checker the tester chooses external events in the environment, while internal control events run automatically in response. The scenarios can be saved and replayed to efficiently demonstrate the model behaviour at different levels of abstraction.</p>
+</div></section><footer class="footer-container"><div class="footer-body"><div class="cols-container"><div class="col col-12"><h3>Disclaimer</h3><p>More information</p></div><div class="col col-6"><dl><dt>Documentation</dt><dd><a href="/en-us/docs/eventb.html" target="_self">Overview</a></dd><dd><a href="/en-us/docs/demo2.html" target="_self">Quick start</a></dd><dd><a href="/en-us/docs/dir/demo3.html" target="_self">Developer guide</a></dd></dl></div><div class="col col-6"><dl><dt>Resources</dt><dd><a href="/en-us/blog/index.html" target="_self">Blog</a></dd><dd><a href="/en-us/community/index.html" target="_self">Community</a></dd></dl></div></div><div class="copyright"><span>Copyright © 2020 Event-B Soton</span></div></div></footer></div></div>
+	<script src="https://f.alicdn.com/react/15.4.1/react-with-addons.min.js"></script>
+	<script src="https://f.alicdn.com/react/15.4.1/react-dom.min.js"></script>
+	<script>
+		window.rootPath = '';
+  </script>
+	<script src="/build/documentation.js"></script>
+</body>
+</html>

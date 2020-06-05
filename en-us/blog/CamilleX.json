@@ -1,0 +1,9 @@
+{
+  "filename": "CamilleX.md",
+  "__html": "<h1>CamilleX 1.0.0 Release</h1>\n<p>We have released CamilleX version 1.0.0. This is a rebranding of the existing XEvent-B feature.</p>\n<p>CamilleX provides text editors for XContexts and XMachines which then compiled automatically to Rodin Event-B contexts and machines. It also supports extensions such as the <em>machine inclusion</em> mechanism. More information about CamilleX is available from the Event-B Wiki (<a href=\"http://wiki.event-b.org/index.php/CamilleX\">http://wiki.event-b.org/index.php/CamilleX</a>).</p>\n<p>A basic tutorial is available in the user manual and also as a cheatsheet within Rodin.</p>\n<p>Note that the Rodin Event-B contexts and machines are over-written by the CamilleX compilers. As a result, <strong>DO NOT USE</strong> CamilleX if you plan to use modelling extensions such as iUML-B state-machines and class diagrams. Modelling extensions will be addressed in future release of CamilleX.</p>\n<p>Please report any issues on the development page <a href=\"https://github.com/eventB-Soton/XEventB\">https://github.com/eventB-Soton/XEventB</a>.</p>\n",
+  "link": "/en-us/blog/CamilleX.html",
+  "meta": {
+    "key1": "CamilleX",
+    "key2": "Machine Inclusion"
+  }
+}

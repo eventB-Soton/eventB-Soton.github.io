@@ -1,0 +1,9 @@
+{
+  "filename": "iUMLB.md",
+  "__html": "<h1>iUML-B New Release</h1>\n<p>A new release of iUML-B is available.</p>\n<p>This release includes new features for class diagrams - listed below. There are a number of stability improvements which affect iUML-B State-machines and the underlying frameworks and translators.</p>\n<p>This release is compatible with the recent new release of Camille - it is recommended to upgrade both iUML-B and Camille at the same time.</p>\n<p>New Class diagram features:</p>\n<ol>\n<li>Classes can own state-machines</li>\n<li>Attributes are total functions by default</li>\n<li>Attributes and initialisations can be initialised to whole mappings (i.e. instead of per instance. start value with &quot;:=&quot; etc)</li>\n<li>Quantification is suppressed if Class constraints do not refer to self-name</li>\n<li>Class constraints can be generated into seen/extended contexts</li>\n<li>A class can be defined as an Enumeration</li>\n<li>Class methods can be extended</li>\n<li>Sub-type classes can be grouped into disjoint or partitions</li>\n</ol>\n",
+  "link": "/en-us/blog/iUMLB.html",
+  "meta": {
+    "key1": "iUML-B",
+    "key2": "Rodin Plug-ins"
+  }
+}
