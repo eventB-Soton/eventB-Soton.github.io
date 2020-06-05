@@ -2,7 +2,7 @@ export default {
   'en-us': {
     sidemenu: [
       {
-        title: 'header title',
+        title: 'title',
         children: [
           {
             title: 'Event-B',
@@ -42,23 +42,35 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: '大标题',
+        title: '列表',
         children: [
           {
-            title: '示例1',
-            link: '/zh-cn/docs/demo1.html',
+            title: 'Event-B',
+            link: '/zh-cn/docs/eventb.html',
           },
           {
-            title: '示例2',
-            link: '/zh-cn/docs/demo2.html',
+            title: 'UML-B',
+            link: '/zh-cn/docs/umlb.html',
           },
           {
-            title: '目录',
+            title: '案例研究',
             opened: true,
             children: [
               {
-                title: '示例3',
-                link: '/zh-cn/docs/dir/demo3.html',
+                title: 'DB Netz',
+                link: '/zh-cn/docs/cs/db.html',
+              },
+              {
+                title: '在UML-B中模拟混合ERTMS 3',
+                link: '/zh-cn/docs/cs/ertms3.html',
+              },
+              {
+                title: '采用UML-B开发航空电子学',
+                link: '/zh-cn/docs/cs/avionics.html',
+              },
+              {
+                title: 'CODA组件图模型',
+                link: '/zh-cn/docs/cs/coda.html',
               },
             ],
           },

@@ -1,0 +1,10 @@
+{
+  "filename": "XEventB1.md",
+  "__html": "<h1>XEvent-B 0.0.7 发布</h1>\n<p>我们推出了一个新的 XEvent-B 0.0.7 版本。它支持跨项目包含机器。它可以在Rodin插件更新的主站点上获得。</p>\n<p>关于XEvent-B的信息可以在下面的wiki页面找到。\n<a href=\"http://wiki.event-b.org/index.php/XEvent-B\">http://wiki.event-b.org/index.php/XEvent-B</a></p>\n",
+  "link": "/zh-cn/blog/XEventB1.html",
+  "meta": {
+    "key1": "XEvent-B",
+    "key2": "Machine Inclusion",
+    "key3": "Rodin Plug-ins"
+  }
+}
