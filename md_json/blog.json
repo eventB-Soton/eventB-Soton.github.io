@@ -24,6 +24,15 @@
       }
     },
     {
+      "filename": "200611-hd-sec.md",
+      "link": "/en-us/blog/200611-hd-sec.html",
+      "meta": {
+        "key1": "Projects",
+        "key2": "Formal methods",
+        "key3": "Security"
+      }
+    },
+    {
       "filename": "CamilleX.md",
       "link": "/en-us/blog/CamilleX.html",
       "meta": {
