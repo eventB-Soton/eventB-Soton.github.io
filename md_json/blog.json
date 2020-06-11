@@ -92,6 +92,15 @@
       }
     },
     {
+      "filename": "200611-hd-sec.md",
+      "link": "/zh-cn/blog/200611-hd-sec.html",
+      "meta": {
+        "key1": "项目",
+        "key2": "形式化方法",
+        "key3": "安全"
+      }
+    },
+    {
       "filename": "CamilleX.md",
       "link": "/zh-cn/blog/CamilleX.html",
       "meta": {
