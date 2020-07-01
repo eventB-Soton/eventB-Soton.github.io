@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <feature url="features/org.eventb.emf.feature_6.1.0.release.jar" id="org.eventb.emf.feature" version="6.1.0.release">
+      <category name="ac.soton.updateSite.framework"/>
+   </feature>
+   <feature url="features/org.eventb.emf.sdk_6.1.0.release.jar" id="org.eventb.emf.sdk" version="6.1.0.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.coda" label="New Category 2">
+   <category-def name="ac.soton.updateSite.coda" label="CODA">
       <description>
          Extensions to the Event-B modelling notation to support component diagrams
       </description>
@@ -23,6 +29,11 @@
    <category-def name="ac.soton.updateSite.framework" label="Frameworks">
       <description>
          Supporting frameworks that are usually installed as part of other features.
+      </description>
+   </category-def>
+   <category-def name="ac.soton.updateSite.developers" label="SoftwareDevelopersKit">
+      <description>
+         USERS SHOULD NOT INSTALL THESE. SDK versions for software developers. These features contain source code and unit tests that are needed to develop plug-ins.
       </description>
    </category-def>
 </site>
