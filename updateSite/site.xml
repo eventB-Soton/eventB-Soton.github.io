@@ -6,6 +6,12 @@
    <feature url="features/org.eventb.emf.sdk_6.1.0.release.jar" id="org.eventb.emf.sdk" version="6.1.0.release">
       <category name="ac.soton.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.feature_6.1.0.release.jar" id="ac.soton.eventb.emf.core.extension.feature" version="6.1.0.release">
+      <category name="ac.soton.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_6.1.0.release.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="6.1.0.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
