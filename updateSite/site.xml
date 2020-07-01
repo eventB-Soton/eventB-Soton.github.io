@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <category-def name="ac.soton.updateSite.umlb" label="UML-B">
+      <description>
+         Extensions to the Event-B modelling notation to support UML-like diagrams
+      </description>
+   </category-def>
+   <category-def name="ac.soton.updateSite.coda" label="New Category 2">
+      <description>
+         Extensions to the Event-B modelling notation to support component diagrams
+      </description>
+   </category-def>
+   <category-def name="ac.soton.updateSite.camillex" label="CamilleX">
+      <description>
+         Support textual source files for Event-B models
+      </description>
+   </category-def>
+   <category-def name="ac.soton.updateSite.utils" label="Utilities">
+      <description>
+         Supported features for Rodin
+      </description>
+   </category-def>
+   <category-def name="ac.soton.updateSite.framework" label="Frameworks">
+      <description>
+         Supporting frameworks that are usually installed as part of other features.
+      </description>
+   </category-def>
+</site>
