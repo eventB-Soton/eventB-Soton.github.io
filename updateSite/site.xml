@@ -18,6 +18,12 @@
    <feature url="features/ac.soton.emf.translator.sdk_3.0.1.release.jar" id="ac.soton.emf.translator.sdk" version="3.0.1.release">
       <category name="ac.soton.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.containment.feature_0.0.1.release.jar" id="ac.soton.eventb.emf.containment.feature" version="0.0.1.release">
+      <category name="ac.soton.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.containment.sdk_0.0.1.release.jar" id="ac.soton.eventb.emf.containment.sdk" version="0.0.1.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
@@ -43,7 +49,7 @@
          Supporting frameworks that are usually installed as part of other features.
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.developers" label="SoftwareDevelopersKit">
+   <category-def name="ac.soton.updateSite.developers" label="Software Developers Kit">
       <description>
          USERS SHOULD NOT INSTALL THESE. SDK versions for software developers. These features contain source code and unit tests that are needed to develop plug-ins.
       </description>
