@@ -39,6 +39,15 @@
    <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.0.2.release.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.0.2.release">
       <category name="ac.soton.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.record.feature_0.1.0.release.jar" id="ac.soton.eventb.emf.record.feature" version="0.1.0.release">
+      <category name="ac.soton.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.record.tests.feature_0.1.0.release.jar" id="ac.soton.eventb.emf.record.tests.feature" version="0.1.0.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.record.sdk_0.1.0.release.jar" id="ac.soton.eventb.emf.record.sdk" version="0.1.0.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
