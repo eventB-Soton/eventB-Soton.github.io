@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/org.eventb.emf.feature_6.1.0.release.jar" id="org.eventb.emf.feature" version="6.1.0.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/org.eventb.emf.sdk_6.1.0.release.jar" id="org.eventb.emf.sdk" version="6.1.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.core.extension.feature_6.1.0.release.jar" id="ac.soton.eventb.emf.core.extension.feature" version="6.1.0.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.core.extension.sdk_6.1.0.release.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="6.1.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.emf.translator.feature_3.0.1.release.jar" id="ac.soton.emf.translator.feature" version="3.0.1.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.emf.translator.sdk_3.0.1.release.jar" id="ac.soton.emf.translator.sdk" version="3.0.1.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.containment.feature_0.0.1.release.jar" id="ac.soton.eventb.emf.containment.feature" version="0.0.1.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.containment.sdk_0.0.1.release.jar" id="ac.soton.eventb.emf.containment.sdk" version="0.0.1.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.emf.translator.eventb.feature_0.1.0.release.jar" id="ac.soton.emf.translator.eventb.feature" version="0.1.0.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.emf.translator.eventb.sdk_0.1.0.release.jar" id="ac.soton.emf.translator.eventb.sdk" version="0.1.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.inclusion.feature_2.0.0.release.jar" id="ac.soton.eventb.emf.inclusion.feature" version="2.0.0.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.inclusion.sdk_2.0.0.release.jar" id="ac.soton.eventb.emf.inclusion.sdk" version="2.0.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.0.2.release.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.0.2.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.record.feature_0.1.0.release.jar" id="ac.soton.eventb.emf.record.feature" version="0.1.0.release">
-      <category name="ac.soton.updateSite.framework"/>
+      <category name="ac.soton.eventb.updateSite.framework"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.record.tests.feature_0.1.0.release.jar" id="ac.soton.eventb.emf.record.tests.feature" version="0.1.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.record.sdk_0.1.0.release.jar" id="ac.soton.eventb.emf.record.sdk" version="0.1.0.release">
-      <category name="ac.soton.updateSite.developers"/>
+      <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
-   <category-def name="ac.soton.updateSite.umlb" label="UML-B">
+   <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.coda" label="CODA">
+   <category-def name="ac.soton.eventb.updateSite.coda" label="CODA">
       <description>
          Extensions to the Event-B modelling notation to support component diagrams
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.camillex" label="CamilleX">
+   <category-def name="ac.soton.eventb.updateSite.camillex" label="CamilleX">
       <description>
          Support textual source files for Event-B models
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.utils" label="Utilities">
+   <category-def name="ac.soton.eventb.updateSite.utils" label="Utilities">
       <description>
          Supported features for Rodin
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.framework" label="Frameworks">
+   <category-def name="ac.soton.eventb.updateSite.framework" label="Frameworks">
       <description>
          Supporting frameworks that are usually installed as part of other features.
       </description>
    </category-def>
-   <category-def name="ac.soton.updateSite.developers" label="Software Developers Kit">
+   <category-def name="ac.soton.eventb.updateSite.developers" label="Software Developers Kit">
       <description>
          USERS SHOULD NOT INSTALL THESE. SDK versions for software developers. These features contain source code and unit tests that are needed to develop plug-ins.
       </description>
