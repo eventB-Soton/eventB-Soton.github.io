@@ -24,6 +24,12 @@
    <feature url="features/ac.soton.eventb.emf.containment.sdk_0.0.1.release.jar" id="ac.soton.eventb.emf.containment.sdk" version="0.0.1.release">
       <category name="ac.soton.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.feature_0.1.0.release.jar" id="ac.soton.emf.translator.eventb.feature" version="0.1.0.release">
+      <category name="ac.soton.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.sdk_0.1.0.release.jar" id="ac.soton.emf.translator.eventb.sdk" version="0.1.0.release">
+      <category name="ac.soton.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
