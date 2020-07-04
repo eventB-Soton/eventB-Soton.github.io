@@ -65,7 +65,7 @@
    </category-def>
    <category-def name="ac.soton.eventb.updateSite.utils" label="Utilities">
       <description>
-         Supported features for Rodin
+         Supporting features for Rodin
       </description>
    </category-def>
    <category-def name="ac.soton.eventb.updateSite.framework" label="Frameworks">
