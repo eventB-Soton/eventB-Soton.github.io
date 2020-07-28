@@ -19,7 +19,6 @@ Event-B Soton Website is a static website generated from Docsite.
 
 - Local preview
 
-
 ```
 $ npm run start
 ```
