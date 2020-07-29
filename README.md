@@ -51,4 +51,3 @@ $ npm run build
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/eventB-Soton/eventB-Soton.github.io/graphs/contributors"></a>
