@@ -69,6 +69,12 @@
    <feature url="features/ac.soton.xeventb.tests.feature_2.0.0.release.jar" id="ac.soton.xeventb.tests.feature" version="2.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.scenariochecker.feature_0.0.0.release.jar" id="ac.soton.eventb.scenariochecker.feature" version="0.0.0.release">
+      <category name="ac.soton.eventb.updateSite.scenarioChecker"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.scenariochecker.sdk_0.0.0.release.jar" id="ac.soton.eventb.scenariochecker.sdk" version="0.0.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
@@ -97,6 +103,11 @@
    <category-def name="ac.soton.eventb.updateSite.developers" label="Software Developers Kit">
       <description>
          USERS SHOULD NOT INSTALL THESE. SDK versions for software developers. These features contain source code and unit tests that are needed to develop plug-ins.
+      </description>
+   </category-def>
+   <category-def name="ac.soton.eventb.updateSite.scenarioChecker" label="Scenario Checker">
+      <description>
+         The Scenario Checker supports Behaviour Driven Model Development.
       </description>
    </category-def>
 </site>
