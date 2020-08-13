@@ -75,6 +75,12 @@
    <feature url="features/ac.soton.eventb.scenariochecker.sdk_0.0.0.release.jar" id="ac.soton.eventb.scenariochecker.sdk" version="0.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.statemachines.feature_4.0.1.release.jar" id="ac.soton.eventb.statemachines.feature" version="4.0.1.release">
+      <category name="ac.soton.eventb.updateSite.umlb"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.release.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
