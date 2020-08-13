@@ -87,6 +87,12 @@
    <feature url="features/ac.soton.eventb.statemachines.animation.sdk_3.0.0.release.jar" id="ac.soton.eventb.statemachines.animation.sdk" version="3.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.feature_8.0.1.release.jar" id="ac.soton.eventb.emf.diagrams.feature" version="8.0.1.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.sdk_8.0.1.release.jar" id="ac.soton.eventb.emf.diagrams.sdk" version="8.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
