@@ -99,6 +99,12 @@
    <feature url="features/ac.soton.eventb.classdiagrams.sdk_3.0.0.release.jar" id="ac.soton.eventb.classdiagrams.sdk" version="3.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.scxml.feature_0.0.2.release.jar" id="ac.soton.scxml.feature" version="0.0.2.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.scxml.sdk_0.0.2.release.jar" id="ac.soton.scxml.sdk" version="0.0.2.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
