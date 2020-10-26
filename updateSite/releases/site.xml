@@ -105,6 +105,12 @@
    <feature url="features/ac.soton.scxml.sdk_0.0.2.release.jar" id="ac.soton.scxml.sdk" version="0.0.2.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.scxml.eventb.feature_0.2.1.release.jar" id="ac.soton.scxml.eventb.feature" version="0.2.1.release">
+      <category name="ac.soton.eventb.updateSite.scxml"/>
+   </feature>
+   <feature url="features/ac.soton.scxml.eventb.sdk_0.2.1.release.jar" id="ac.soton.scxml.eventb.sdk" version="0.2.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
@@ -140,4 +146,5 @@
          The Scenario Checker supports Behaviour Driven Model Development.
       </description>
    </category-def>
+   <category-def name="ac.soton.eventb.updateSite.scxml" label="SCXML"/>
 </site>
