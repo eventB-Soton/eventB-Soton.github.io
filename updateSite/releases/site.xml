@@ -111,6 +111,15 @@
    <feature url="features/ac.soton.scxml.eventb.sdk_0.2.1.release.jar" id="ac.soton.scxml.eventb.sdk" version="0.2.1.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ch.ethz.eventb.utils_feature_0.2.5.release.jar" id="ch.ethz.eventb.utils_feature" version="0.2.5.release">
+      <category name="ac.soton.eventb.updateSite.utils"/>
+   </feature>
+   <feature url="features/ch.ethz.eventb.utils.sdk_0.2.5.release.jar" id="ch.ethz.eventb.utils.sdk" version="0.2.5.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ch.ethz.eventb.utils.tests.feature_0.2.5.release.jar" id="ch.ethz.eventb.utils.tests.feature" version="0.2.5.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
