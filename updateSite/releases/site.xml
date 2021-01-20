@@ -120,6 +120,33 @@
    <feature url="features/ch.ethz.eventb.utils.tests.feature_0.2.5.release.jar" id="ch.ethz.eventb.utils.tests.feature" version="0.2.5.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.feature_2.0.1.release.jar" id="ac.soton.eventb.emf.inclusion.feature" version="2.0.1.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.sdk_2.0.1.release.jar" id="ac.soton.eventb.emf.inclusion.sdk" version="2.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.0.3.release.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.0.3.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.record.feature_0.1.1.release.jar" id="ac.soton.eventb.emf.record.feature" version="0.1.1.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.record.sdk_0.1.1.release.jar" id="ac.soton.eventb.emf.record.sdk" version="0.1.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.record.tests.feature_0.1.1.release.jar" id="ac.soton.eventb.emf.record.tests.feature" version="0.1.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.feature_2.0.1.release.jar" id="ac.soton.xeventb.feature" version="2.0.1.release">
+      <category name="ac.soton.eventb.updateSite.camillex"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.sdk_2.0.1.release.jar" id="ac.soton.xeventb.sdk" version="2.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.tests.feature_2.0.1.release.jar" id="ac.soton.xeventb.tests.feature" version="2.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
