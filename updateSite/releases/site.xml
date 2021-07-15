@@ -189,6 +189,18 @@
    <feature url="features/ac.soton.xeventb.sdk_2.1.0.release.jar" id="ac.soton.xeventb.sdk" version="2.1.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.probsupport.feature_0.0.1.release.jar" id="ac.soton.eventb.probsupport.feature" version="0.0.1.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.probsupport.sdk_0.0.1.release.jar" id="ac.soton.eventb.probsupport.sdk" version="0.0.1.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.scenariochecker.feature_1.0.0.release.jar" id="ac.soton.eventb.scenariochecker.feature" version="1.0.0.release">
+      <category name="ac.soton.eventb.updateSite.scenarioChecker"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.scenariochecker.sdk_1.0.0.release.jar" id="ac.soton.eventb.scenariochecker.sdk" version="1.0.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
