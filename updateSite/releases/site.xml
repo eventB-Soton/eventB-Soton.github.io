@@ -228,6 +228,12 @@
    <feature url="features/ac.soton.emf.translator.sdk_4.0.0.release.jar" id="ac.soton.emf.translator.sdk" version="4.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.feature_7.0.0.release.jar" id="ac.soton.eventb.emf.core.extension.feature" version="7.0.0.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_7.0.0.release.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="7.0.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
