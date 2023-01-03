@@ -246,6 +246,12 @@
    <feature url="features/ac.soton.eventb.roseEditor.sdk_1.8.0.release.jar" id="ac.soton.eventb.roseEditor.sdk" version="1.8.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.probsupport.feature_0.1.0.release.jar" id="ac.soton.eventb.probsupport.feature" version="0.1.0.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.probsupport.sdk_0.1.0.release.jar" id="ac.soton.eventb.probsupport.sdk" version="0.1.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
