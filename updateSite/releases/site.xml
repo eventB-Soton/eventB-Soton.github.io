@@ -258,6 +258,15 @@
    <feature url="features/ac.soton.eventb.emf.diagrams.sdk_9.0.0.release.jar" id="ac.soton.eventb.emf.diagrams.sdk" version="9.0.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.feature_3.0.0.release.jar" id="ac.soton.eventb.emf.inclusion.feature" version="3.0.0.release">
+      <category name="ac.soton.eventb.updateSite.framework"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.2.0.release.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.2.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.sdk_3.0.0.release.jar" id="ac.soton.eventb.emf.inclusion.sdk" version="3.0.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
