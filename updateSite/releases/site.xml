@@ -297,6 +297,15 @@
    <feature url="features/ac.soton.eventb.emf.record.sdk_1.1.0.release.jar" id="ac.soton.eventb.emf.record.sdk" version="1.1.0.release">
       <category name="ac.soton.eventb.updateSite.developers"/>
    </feature>
+   <feature url="features/ac.soton.xeventb.feature_3.1.0.release.jar" id="ac.soton.xeventb.feature" version="3.1.0.release">
+      <category name="ac.soton.eventb.updateSite.camillex"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.tests.feature_3.1.0.release.jar" id="ac.soton.xeventb.tests.feature" version="3.1.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.sdk_3.1.0.release.jar" id="ac.soton.xeventb.sdk" version="3.1.0.release">
+      <category name="ac.soton.eventb.updateSite.developers"/>
+   </feature>
    <category-def name="ac.soton.eventb.updateSite.umlb" label="UML-B">
       <description>
          Extensions to the Event-B modelling notation to support UML-like diagrams
